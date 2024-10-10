@@ -33,3 +33,5 @@ npm run build
 ```sh
 npm run lint
 ```
+### To see on site
+https://shoes-shop-vue.netlify.app
